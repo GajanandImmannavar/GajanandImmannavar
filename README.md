@@ -21,6 +21,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GajanandImmannavar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/GajanandImmannavar/GajanandImmannavar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=GajanandImmannavar&icon=0&color=0)](https://visitcount.itsvg.in)
 
