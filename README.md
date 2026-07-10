@@ -30,6 +30,8 @@
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=GajanandImmannavar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=GajanandImmannavar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
